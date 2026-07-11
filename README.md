@@ -181,9 +181,9 @@ p.note { display: none; }
 
 <h2><span class="yellow">薔薇のお花もまだまだ元気</span></h2>
 <a href="20260711_006.JPG" target="_blank"><img src="20260711_006.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20260711_007.JPG" target="_blank"><img src="20260711_007.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">サルビアの赤が鮮やかです</span></h2>
-<a href="20260711_007.JPG" target="_blank"><img src="20260711_007.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260711_008.JPG" target="_blank"><img src="20260711_008.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260711_009.JPG" target="_blank"><img src="20260711_009.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260711_010.JPG" target="_blank"><img src="20260711_010.JPG" alt="サンプル画像" class="responsive-media"></a>
